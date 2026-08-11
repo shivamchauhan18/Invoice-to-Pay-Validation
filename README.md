@@ -74,13 +74,14 @@ The application uses **LangGraph** to orchestrate the complete workflow and prov
                          │ REVIEW              │
                          └─────────────────────┘
 
+```
 # Install Dependencies
-```Python
+```python
 pip install -r requirements.txt
 ```
 
 # Start Application
-```Python
+```python
 python app.py
 
 ```text
