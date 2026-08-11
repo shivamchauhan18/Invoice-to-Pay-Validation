@@ -1,0 +1,11 @@
+flask
+werkzeug
+
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-ollama
+
+pydantic
+python-dotenv
